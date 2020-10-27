@@ -1,0 +1,20 @@
+{
+    "Author": "michaelwasham",
+    "ContentSize": 2694,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/configures-secure-remote-powershell-access-to-windows-azure-virtual-machines/master/InstallWinRMCertAzureVM.ps1",
+    "DownloadCount": 9005,
+    "Id": "Configures-Secure-Remote-b137f2fe",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 207,
+    "RaterCount": 8,
+    "Rating": 4.9,
+    "ReleaseDate": "2013-8-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script downloads and installs the automatically generated self-signed certificate created by Windows Azure for secure Remote PowerShell access to virtual machines.",
+    "Title": "Configures Secure Remote PowerShell Access to Windows Azure Virtual Machines",
+    "UpdatedDate": "2013-11-4T00:00:00",
+    "Url": "https://github.com/azureautomation/configures-secure-remote-powershell-access-to-windows-azure-virtual-machines",
+    "UserTags": "Windows Azure Virtual Machines, Remote PowerShell"
+}
